@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+
+}
+
+h3{
+    font-weight: 700;
+    color: black;
+}
+#formOne{
+    margin-left: 350px;
+    margin-top: 100px;
+
+    border-radius: 15px;
+    border: 2px solid goldenrod;
+    background-color:rgb(183, 139, 224);
+    color: white;
+    width: 40vw;
+    height: 45vh;
+    padding: 20px;
+}
+
+#userFName{
+    border: 2px solid gold;
+    border-radius: 10px;
+    color: red;
+    padding: 10px;
+    background-color:black;
+    margin: 10px;
+}
+#userLName{
+
+    border: 2px solid gold;
+    border-radius: 10px;
+    color: red;
+    padding: 10px;
+    background-color:black;
+    margin: 10px;
+}
+
+#btn{
+    font-weight: 800;
+    border: 2px solid gold;
+    border-radius: 10px;
+    color: red;
+    padding: 10px;
+    background-color:black;
+    margin: 10px;
+
+}
